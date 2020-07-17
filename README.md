@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning
+- 🔭 I’m currently working on Machine Learning and cross platform development
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on my github repos
 - 🤔 I’m looking for help with python, react.
