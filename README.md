@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**GauravSingh9356/gauravsingh9356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on my github repos
+- 🤔 I’m looking for help with python, react.
+- 💬 Ask me about react, express, node, python
+- 📫 How to reach me: gs935688@gmail.com
+- 😄 Pronouns: Myself
+- ⚡ Fun fact: I prefer mobile over laptop for watching movies
+
+
+<img src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
