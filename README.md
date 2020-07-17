@@ -14,3 +14,6 @@
 
 
 <img src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
+<a href="https://dev.to/gauravsingh9356">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="30" width="30">
+</a>
