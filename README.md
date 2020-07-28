@@ -49,8 +49,15 @@
 <br/>
 
 <img src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
-<a href="https://dev.to/gauravsingh9356">
+<a align='center' href="https://dev.to/gauravsingh9356">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="200" width="425">
 </a>
 
-### Show some ❤️ by starring some of the repositories!
+[![Build Status](https://img.shields.io/github/forks/GauravSingh9356/J.A.R.V.I.S.svg?style=for-the-badge)](https://github.com/GauravSingh9356/J.A.R.V.I.S)
+[![Build Status](https://img.shields.io/github/stars/GauravSingh9356/J.A.R.V.I.S.svg?style=for-the-badge)](https://github.com/GauravSingh9356/J.A.R.V.I.S)
+[![License](https://img.shields.io/github/license/GauravSingh9356/J.A.R.V.I.S.svg?style=for-the-badge)](https://github.com/GauravSingh9356/J.A.R.V.I.S)
+
+
+<div align='center'>
+ Show some ❤️ by starring some of the repositories!
+  </div>
