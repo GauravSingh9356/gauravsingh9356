@@ -19,7 +19,28 @@
 <a href="https://www.facebook.com/profile.php?id=100044465438895">
   <img align="left" alt="Gaurav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh?label=follow&style=social)](https://github.com/gauravsingh9356)
+
+<br/>
+<br/>
+
+
+
+
+
+
+[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=follow&style=social)](https://github.com/gauravsingh9356)
+
+
+
+
+
+<br/>
+<br/>
+
+
+
+
+
 - 🔭 I’m currently working on Machine Learning and cross platform development
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on my github repos
