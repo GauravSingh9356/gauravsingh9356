@@ -24,7 +24,15 @@
 <br/>
 
 
+[![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=dark)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
+[![Chat App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Chat-App&show_owner=true&theme=dracula)](https://github.com/gauravsingh9356/Chat-App)
 
+[![FCC Projects ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=FCC-front-End-Libraries-Projects&show_owner=true&theme=tokyonight)](https://github.com/gauravsingh9356/FCC-front-End-Libraries-Projects)
+
+
+[![YouTube Downloader ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Youtube-Downloader&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Youtube-Downloader)
+
+[![Python ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Python&show_owner=true&theme=radical)](https://github.com/gauravsingh9356/Python)
 
 
 
@@ -48,16 +56,13 @@
 
 <br/>
 
-<img src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
 <a align='center' href="https://dev.to/gauravsingh9356">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="200" width="425">
 </a>
 
-[![Build Status](https://img.shields.io/github/forks/GauravSingh9356/J.A.R.V.I.S.svg?style=for-the-badge)](https://github.com/GauravSingh9356/J.A.R.V.I.S)
-[![Build Status](https://img.shields.io/github/stars/GauravSingh9356/J.A.R.V.I.S.svg?style=for-the-badge)](https://github.com/GauravSingh9356/J.A.R.V.I.S)
-[![License](https://img.shields.io/github/license/GauravSingh9356/J.A.R.V.I.S.svg?style=for-the-badge)](https://github.com/GauravSingh9356/J.A.R.V.I.S)
 
 
 <div align='center'>
- Show some ❤️ by starring some of the repositories!
+ ### Show some ❤️ by starring some of the repositories!
   </div>
