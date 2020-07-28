@@ -31,10 +31,6 @@
 [![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=follow&style=social)](https://github.com/gauravsingh9356)
 
 
-
-
-
-<br/>
 <br/>
 
 
@@ -50,6 +46,7 @@
 - 😄 Pronouns: Myself
 - ⚡ Fun fact: I prefer mobile over laptop for watching movies
 
+<br/>
 
 <img src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
 <a href="https://dev.to/gauravsingh9356">
