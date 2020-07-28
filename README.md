@@ -13,7 +13,7 @@
   <img align="left" alt="Gaurav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/gauravsingh9356/">
+<a href="https://instagram.com/gauravsingh9356_/">
   <img align="left" alt="Gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100044465438895">
