@@ -52,9 +52,11 @@
 - ⚡ Fun fact: I prefer mobile over laptop for watching movies
 
 <br/>
-<a href="https://github.com/GauravSingh9356">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&theme=merko)](https://github.com/GauravSingh9356/github-readme-stats)
+
+
 <br/>
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
