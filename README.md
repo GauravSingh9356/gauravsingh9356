@@ -55,7 +55,7 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&theme=merko)](https://github.com/GauravSingh9356/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&theme=merko)](https://github.com/GauravSingh9356)
 
 
 <br/>
