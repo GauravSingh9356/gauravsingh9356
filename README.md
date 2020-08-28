@@ -27,7 +27,7 @@
 
 [![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=dark)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
 [![Chat App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Chat-App&show_owner=true&theme=dracula)](https://github.com/gauravsingh9356/Chat-App)
-[![FCC Projects ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=FCC-front-End-Libraries-Projects&show_owner=true&theme=tokyonight)](https://github.com/gauravsingh9356/FCC-front-End-Libraries-Projects)
+[![FCC Projects ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=FreeCodeCamp-Projects&show_owner=true&theme=tokyonight)](https://github.com/gauravsingh9356/FreeCodeCamp-Projects)
 [![YouTube Downloader ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Youtube-Downloader&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Youtube-Downloader)
 [![Python ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Python&show_owner=true&theme=radical)](https://github.com/gauravsingh9356/Python)
 [![Auth-App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Auth-App&show_owner=true&theme=merko)](https://github.com/gauravsingh9356/Auth-App)
