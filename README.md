@@ -69,15 +69,12 @@
 </td>
   </tr>
   
-  <tr>
   
-  <td>
+
 <a align='center' href="https://dev.to/gauravsingh9356">
-  <img align ="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="200" width="425">
+  <img align ="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="275" width="425">
 </a>
-  </td>
   
-  </tr>
 
 <br/>
 
