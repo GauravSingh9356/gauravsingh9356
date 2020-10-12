@@ -4,30 +4,30 @@
   <h2 align ="center"> I am Gaurav :) </h2>
   <h4 align ="center">Feel free to fork the repos and if you like, make sure you star them ;)</h4>
   
-<div align ="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Views&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
 
-<a href="https://twitter.com/GauravS36826604">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Views&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
+
+<a  align="center" href="https://twitter.com/GauravS36826604">
   <img align="left" alt="Gaurav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/gaurav-singh-154348191/">
+<a align="center" href="https://linkedin.com/in/gaurav-singh-154348191/">
   <img align="left" alt="Gaurav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/gauravsingh9356">
+<a align="center" href="https://github.com/gauravsingh9356">
   <img align="left" alt="Gaurav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://instagram.com/gauravsingh9356_/">
+<a align="center" href="https://instagram.com/gauravsingh9356_/">
   <img align="left" alt="Gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/profile.php?id=100044465438895">
+<a align="center" href="https://www.facebook.com/profile.php?id=100044465438895">
   <img align="left" alt="Gaurav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 [![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=follow&style=social)](https://github.com/gauravsingh9356)
 <br/>
 <br/>
-</div>
+
 
 [![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=dark)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
 [![Chat App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Chat-App&show_owner=true&theme=dracula)](https://github.com/gauravsingh9356/Chat-App)
@@ -85,5 +85,5 @@
 </table>
 
 <div align='center'>
-  <h1 align='center'> Show some ❤️ by starring some of the repositories! </h1>
+  <h1 align='center'> Show some ❤️ by starring some of the repositories ;) </h1>
   </div>
