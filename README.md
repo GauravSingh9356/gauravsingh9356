@@ -1,5 +1,9 @@
-### Hi there 👋
-#### I am Gaurav :)
+
+  
+<h3 align ="center" > <  Hi there /> 👋 </h3>
+  <h2 align ="center"> I am Gaurav :) </h2>
+  <h4 align ="center">Feel free to fork the repos and if you like, make sure you star them ;)</h4>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Views&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
 
@@ -53,20 +57,33 @@
 - ⚡ Fun fact: I prefer mobile over laptop for watching movies
 
 <br/>
-
-
+<table>
+<tr>
+  
+  <td>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&theme=merko)](https://github.com/GauravSingh9356)
-
+</td>
+<td>
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
+</td>
+  </tr>
+  
+  <tr>
+  
+  <td>
+<a align='center' href="https://dev.to/gauravsingh9356">
+  <img align ="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="200" width="425">
+</a>
+  </td>
+  
+  </tr>
 
 <br/>
 
-<img align='center' src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
-<a align='center' href="https://dev.to/gauravsingh9356">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gaurav Singh's DEV Profile" height="200" width="425">
-</a>
 
-
+</table>
 
 <div align='center'>
-  <h1> Show some ❤️ by starring some of the repositories! </h1>
+  <h1 align='center'> Show some ❤️ by starring some of the repositories! </h1>
   </div>
