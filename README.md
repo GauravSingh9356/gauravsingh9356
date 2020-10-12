@@ -68,7 +68,7 @@
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515'/>
 </td>
   </tr>
-  
+  </table>
   
 
 <a align='center' href="https://dev.to/gauravsingh9356">
@@ -79,7 +79,7 @@
 <br/>
 
 
-</table>
+
 
 <div align='center'>
   <h1 align='center'> Show some ❤️ by starring some of the repositories ;) </h1>
