@@ -4,7 +4,7 @@
   <h2 align ="center"> I am Gaurav :) </h2>
   <h4 align ="center">Feel free to fork the repos and if you like, make sure you star them ;)</h4>
   
-
+<div align ="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Views&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
 
 <a href="https://twitter.com/GauravS36826604">
@@ -27,7 +27,7 @@
 [![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=follow&style=social)](https://github.com/gauravsingh9356)
 <br/>
 <br/>
-
+</div>
 
 [![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=dark)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
 [![Chat App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Chat-App&show_owner=true&theme=dracula)](https://github.com/gauravsingh9356/Chat-App)
