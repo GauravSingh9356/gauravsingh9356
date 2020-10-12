@@ -2,7 +2,7 @@
   
 <h3 align ="center" > <  Hi there /> 👋 </h3>
   <h2 align ="center"> I am Gaurav :) </h2>
-  <h4 align ="center">Feel free to fork the repos and if you like, make sure you star them ;)</h4>
+  <h4 align ="center">Feel free to fork the repos, make sure you star them ;)</h4>
   
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Views&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
