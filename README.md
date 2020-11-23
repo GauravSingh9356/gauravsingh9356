@@ -5,7 +5,7 @@
   <h4 align ="center">Feel free to fork the repos, make sure you star them ;)</h4>
   
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Views&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
 
 <a  align="center" href="https://twitter.com/GauravS36826604">
   <img align="left" alt="Gaurav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
