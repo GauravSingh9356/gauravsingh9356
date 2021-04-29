@@ -1,8 +1,5 @@
 <div align="center">
    <h1>Hi there, I'm Gaurav! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align="center">
@@ -11,13 +8,13 @@
 <a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" width="50" height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+[](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### 🤵 About Me:
 - 🏦 I'm a CSE student pursuing BTech in Indian Institute of Information Technology (IIIT) K.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [dev.to](https://dev.to/gauravsingh9356) and [blogspot](https://techtalkswithgaurav.blogspot.com/) and [medium](https://medium.com/@gs935688)
-- 💻 I use daily **.js**, **.py**, **.java**, **.cpp**
+- 💻 I work in **.js**, **.py**, **.java**, **.cpp**
 - 💬 Talk to me about javascript, python (both of these are not any kind of insect or animals), MERN stack, Machine Learning/Deep Learning, startups
 - ⚡ Fun fact: Je connais un peu le français
 
