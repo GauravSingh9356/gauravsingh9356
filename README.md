@@ -8,6 +8,7 @@
 <a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" width="50" height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
 </p>
 
+[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=follow&style=social)](https://github.com/gauravsingh9356)
 
 ### 🤵 About Me:
 - 🏦 I'm a CSE student pursuing BTech in Indian Institute of Information Technology (IIIT) K.
@@ -33,9 +34,7 @@
 ---
 ### 🐱My Github Stats:
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=gauravsingh9356&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&theme=merko)](https://github.com/GauravSingh9356)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&layout=compact&text_color=daf7dc&bg_color=151515&theme=dark)](https://github.com/GauravSingh9356/github-readme-stats)
 
 [![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
 [![Chat App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Chat-App&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Chat-App)
