@@ -6,9 +6,13 @@
 <a href="https://twitter.com/GauravS36826604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gauravsingh9356" height="50" width="50" /></a>&nbsp;
 <a href="https://linkedin.com/in/gauravsingh9356_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gauravsingh9356" height="50" width="50" /></a>&nbsp;
 <a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" width="50" height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
+
 </p>
 
-[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=follow&style=social)](https://github.com/gauravsingh9356)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Profile Views&color=blue&style=plastic&theme=dark" alt="gauravsingh9356" /> </p>
+
+[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=Followers&style=social)](https://github.com/gauravsingh9356)
+
 
 ### 🤵 About Me:
 - 🏦 I'm a CSE student pursuing BTech in Indian Institute of Information Technology (IIIT) K.
