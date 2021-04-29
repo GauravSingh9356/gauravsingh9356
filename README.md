@@ -15,7 +15,7 @@
 
 
 ### 🤵 About Me:
-- 🏦 I'm a CSE student pursuing BTech in Indian Institute of Information Technology (IIIT) K.
+- 🏦 I'm a CSE student pursuing BTech at Indian Institute of Information Technology (IIIT) K.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [Dev.to](https://dev.to/gauravsingh9356) and [Blogspot](https://techtalkswithgaurav.blogspot.com/) and [Medium](https://medium.com/@gs935688)
 - 💻 I work in **.js**, **.py**, **.java**, **.cpp**
