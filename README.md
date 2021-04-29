@@ -22,7 +22,6 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" width="85" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="85" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="85" height="65"/> 
