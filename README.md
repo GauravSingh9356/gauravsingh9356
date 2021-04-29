@@ -1,5 +1,10 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-## I am Gaurav
+<div align="center">
+   <h1>Hi there, I'm Gaurav! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+
 <p align="center">
 <a href="https://twitter.com/GauravS36826604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gauravsingh9356" height="50" width="50" /></a>&nbsp;
 <a href="https://linkedin.com/in/gauravsingh9356_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gauravsingh9356" height="50" width="50" /></a>&nbsp;
@@ -49,5 +54,5 @@
 
 
 
-### Feel free to fork and star the repositories!😜:
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
