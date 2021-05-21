@@ -19,7 +19,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [Dev.to](https://dev.to/gauravsingh9356) and [Blogspot](https://techtalkswithgaurav.blogspot.com/) and [Medium](https://medium.com/@gs935688)
 - 💻 I work in **.js**, **.py**, **.java**, **.cpp**
-- 💬 Talk to me about javascript, python (both of these are not any kind of insect or animals), MERN stack, Machine Learning/Deep Learning, startups
+- 💬 Talk to me about MERN stack, Machine Learning/Deep Learning, startups
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
