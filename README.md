@@ -29,15 +29,16 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="85" height="65"/>
       <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="redux" width="75" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="85" height="65"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit Learn" width="80" height="80"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit Learn" width="75" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="85" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" width="85" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="75" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="80" height="65"/> 
 </p>
 
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=GauravSingh9356&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh9356&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 
 ---
