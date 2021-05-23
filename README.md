@@ -39,7 +39,7 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=GauravSingh9356&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh9356&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/531b3171-a192-42e9-b294-aa9909efa414/deploy-status)](https://app.netlify.com/sites/memoriesbygs/deploys)
 
 ---
 ### 🐱My Github Stats:
