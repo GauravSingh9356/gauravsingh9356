@@ -30,6 +30,7 @@
       <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="redux" width="75" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="85" height="65"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit Learn" width="75" height="65"/> 
+         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="java" width="85" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="85" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" width="85" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="80" height="65"/> 
