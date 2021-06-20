@@ -3,15 +3,17 @@
 </div>
 
 <p align="center">
-<a href="https://twitter.com/GauravS36826604" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gauravsingh9356" height="50" width="50" /></a>&nbsp;
-<a href="https://linkedin.com/in/gauravsingh9356_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gauravsingh9356" height="50" width="50" /></a>&nbsp;
-<a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" width="50" height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" /></a>
+<a href="https://twitter.com/GauravS36826604" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gauravsingh9356"  /></a>&nbsp;
+   <a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
+    <a href="https://techtalkswithgaurav.blogspot.com/"><img align="center" alt="blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+<a href="https://linkedin.com/in/gauravsingh9356_" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gauravsingh9356" /></a>&nbsp;
+
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Profile Views&color=blue&theme=dark" alt="gauravsingh9356" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Profile Views&color=blue&theme=dark&style=flat-square" alt="gauravsingh9356" /> </p>
 
-[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=Followers&style=social)](https://github.com/gauravsingh9356)
+[![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=Followers&style=flat-square)](https://github.com/gauravsingh9356)
 
 
 ### 🤵 About Me:
@@ -23,17 +25,27 @@
 - ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="85" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="85" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="85" height="65"/>
-      <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" alt="redux" width="75" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="85" height="65"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit Learn" width="75" height="65"/> 
-         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="java" width="85" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="85" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" width="85" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="80" height="65"/> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+   
+   
+   
+   
+   
 </p>
 
 
