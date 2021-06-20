@@ -9,7 +9,7 @@
 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Profile Views&color=blue&style=plastic&theme=dark" alt="gauravsingh9356" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsingh9356&label=Profile Views&color=blue&theme=dark" alt="gauravsingh9356" /> </p>
 
 [![GitHub gauravsingh9356](https://img.shields.io/github/followers/gauravsingh9356?label=Followers&style=social)](https://github.com/gauravsingh9356)
 
