@@ -49,9 +49,6 @@
 </p>
 
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=GauravSingh9356&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=GauravSingh9356&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 
 ---
