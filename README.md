@@ -58,9 +58,9 @@
 
 [![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
 [![GN Tours and Services ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=GN_Tours_Services&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Chat-App)
-[![Computer Vision ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Computer-Vision&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/FreeCodeCamp-Projects)
+[![Computer Vision ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Computer-Vision&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Computer-Vision)
 [![YouTube Downloader ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Youtube-Downloader&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Youtube-Downloader)
-[![DEEP_LEARNING ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=DEEP_LEARNING&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Python)
+[![DEEP_LEARNING ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=DEEP_LEARNING&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/DEEP_LEARNING)
 
 
 
