@@ -57,11 +57,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravSingh9356&layout=compact&text_color=daf7dc&bg_color=151515&theme=dark)](https://github.com/GauravSingh9356/github-readme-stats)
 
 [![J.A.R.V.I.S ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=J.A.R.V.I.S&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/J.A.R.V.I.S)
-[![Chat App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Chat-App&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Chat-App)
-[![FCC Projects ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=FreeCodeCamp-Projects&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/FreeCodeCamp-Projects)
+[![GN Tours and Services ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=GN_Tours_Services&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Chat-App)
+[![Computer Vision ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Computer-Vision&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/FreeCodeCamp-Projects)
 [![YouTube Downloader ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Youtube-Downloader&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Youtube-Downloader)
-[![Python ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Python&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Python)
-[![Auth-App ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Auth-App&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Auth-App)
+[![DEEP_LEARNING ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=DEEP_LEARNING&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Python)
+
 
 
 
