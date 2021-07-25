@@ -6,7 +6,7 @@
 <a href="https://twitter.com/GauravS36826604" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gauravsingh9356"  /></a>&nbsp;
    <a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
     <a href="https://techtalkswithgaurav.blogspot.com/"><img align="center" alt="blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
-<a href="https://linkedin.com/in/gauravsingh9356_" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gauravsingh9356" /></a>&nbsp;
+<a href="https://linkedin.com/in/gauravsingh9356" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gauravsingh9356" /></a>&nbsp;
 
 
 </p>
