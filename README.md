@@ -61,6 +61,7 @@
 [![Computer Vision ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Computer-Vision&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Computer-Vision)
 [![YouTube Downloader ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Youtube-Downloader&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Youtube-Downloader)
 [![DEEP_LEARNING ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=DEEP_LEARNING&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/DEEP_LEARNING)
+[![NetFlix Clone ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gauravsingh9356&repo=Netflix_Clone&show_owner=true&theme=highcontrast)](https://github.com/gauravsingh9356/Netflix_Clone)
 
 
 
