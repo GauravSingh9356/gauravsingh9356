@@ -3,10 +3,13 @@
 </div>
 
 <p align="center">
+   <a href="https://gsportfolio.netlify.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/GauravS36826604" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gauravsingh9356"  /></a>&nbsp;
    <a href="https://dev.to/gauravsingh9356"><img align="center" alt="devto" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
     <a href="https://techtalkswithgaurav.blogspot.com/"><img align="center" alt="blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
 <a href="https://linkedin.com/in/gauravsingh9356" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gauravsingh9356" /></a>&nbsp;
+   <a href="https://auth.geeksforgeeks.org/user/gauravsingh9356/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksForGeeks" /></a>&nbsp;
+     <a href="https://leetcode.com/gauravsingh9356_/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" /></a>&nbsp;
 
 
 </p>
