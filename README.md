@@ -24,8 +24,8 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [Dev.to](https://dev.to/gauravsingh9356) and [Blogspot](https://techtalkswithgaurav.blogspot.com/) and [Medium](https://medium.com/@gs935688)
 - 💻 I work in **.js**, **.py**, **.java**, **.cpp**
-- 💬 Talk to me about MERN stack, Machine Learning/Deep Learning, startups
-- ⚡ Fun fact: Je connais un peu le français
+- 💬 Talk to me about Full Stack Development, MERN stack, Microservices, startups
+- ⚡ Fun fact: Estoy aprendiendo español
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
