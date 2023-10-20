@@ -24,7 +24,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I regulary write technical articles on [Dev.to](https://dev.to/gauravsingh9356) and [Blogspot](https://techtalkswithgaurav.blogspot.com/) and [Medium](https://medium.com/@gs935688)
 - 💻 I work in **.js**, **.py**, **.java**, **.cpp**
-- 💬 Talk to me about Software Engineering, startups and Football ⚽️
+- 💬 Talk to me about Software Engineering, Startups and Football (Messi is the GOAT) ⚽️
 - ⚡ Fun fact: Estoy aprendiendo español
 
 <p align="center">
